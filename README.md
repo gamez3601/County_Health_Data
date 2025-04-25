@@ -4,9 +4,9 @@ This data repository was created for English 105 at the University of North Caro
  * The idea behind this information is to help foster change for more equal healthcare throughout the state of North Carolina
   ---
   ## Table of Contents
-  *
-  *
-  *
+  1. 
+  2. 
+  3. 
 ## Content
 * This Repository contains the raw data for Nationwide County Health for the years 2014-2015 as well as a subset of the data focusing on Healthcare costs for counties in NC
 * This Repository was created using python and contains the notebook used to create this subset as well as documentation on how the subset was created

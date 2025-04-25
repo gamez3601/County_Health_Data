@@ -6,4 +6,8 @@
 ## Contents
 #### 1. This Repository contains the raw data for Public County Health for the years 2014-2015 as well as a subset of the data focusing on Healthcare costs for counties in NC
 #### 2. This Repository was created using python and contains the notebook used to create this subset as well as documentation on how the subset was created
-
+## Potential Usage
+#### 1. Analyze how healthcare costs vary by county within North Carolina
+#### 2. Support research projects focused on public health or healthcare access
+#### 3. Inform policy discussions around regional healthcare funding or disparities
+##### 4. Create data visualizations or maps comparing healthcare costs across counties

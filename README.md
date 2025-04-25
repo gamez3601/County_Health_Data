@@ -12,7 +12,7 @@ This data repository was created for English 105 at the University of North Caro
 ## Source
 * The Original dataset was provded in English 105 by Professor Gotzler at the University of North Carolina at Chapel
 * That data can be references back to the Davis Library Hub
-* You can browse the raw data [here](./Data/Raw_Dataset).
+* You can browse the raw data [here](County_Health_Data/Data/).
 
 ## Content
 * This Repository contains the raw data for Nationwide County Health for the years 2014-2015 as well as a subset of the data focusing on Healthcare costs for counties in NC

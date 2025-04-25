@@ -1,6 +1,9 @@
 # Healthcare Costs in NC
  This data repository was created for English 105 at the University of North Carolina at Chapel Hill. It provides national public health data organized by county, with a cleaned subset that highlights differences in health care costs across counties in North Carolina. 
-
+**Table of Contents**
+*
+*
+*
 * The purpose of this repository is to highlight the differences in health care across North Carolina
 * The idea behind this information is to help foster change for more equal healthcare throughout the state of North Carolina
 ## Content

@@ -21,6 +21,6 @@ This data repository was created for English 105 at the University of North Caro
 * Inform policy discussions around regional healthcare funding or disparities
 * Create data visualizations or maps comparing healthcare costs across counties
 ## Support
-#### if questions arise regarding the repository
+#### If questions arise regarding the repository:
 * feel free to utilize the Github Copilot chat
 *  contact maintainer directly by email: diego23@unc.edu

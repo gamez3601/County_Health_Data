@@ -4,8 +4,10 @@ This data repository was created for English 105 at the University of North Caro
  * The idea behind this information is to help foster change for more equal healthcare throughout the state of North Carolina
   ---
   ## Table of Contents
-  1. Source
-  2. Content
+  1. ## Table of Contents
+- [Content](#content)
+- [Potential Usage](#potential-usage)
+
   3. Usage
   4. Support
 ## Source

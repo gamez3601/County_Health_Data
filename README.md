@@ -4,10 +4,10 @@
 * This Repository was created to highlight the differences in healthcare costs from county to county in North Carolina
 * This data could be used to foster change for more equal healthcare throughout the state of North Carolina
 ## Contents
-#### 1. This Repository contains the raw data for Nationwide County Health for the years 2014-2015 as well as a subset of the data focusing on Healthcare costs for counties in NC
-#### 2. This Repository was created using python and contains the notebook used to create this subset as well as documentation on how the subset was created
+* This Repository contains the raw data for Nationwide County Health for the years 2014-2015 as well as a subset of the data focusing on Healthcare costs for counties in NC
+* This Repository was created using python and contains the notebook used to create this subset as well as documentation on how the subset was created
 ## Potential Usage
-#### 1. Analyze how healthcare costs vary by county within North Carolina
-#### 2. Support research projects focused on public health or healthcare access
-#### 3. Inform policy discussions around regional healthcare funding or disparities
-##### 4. Create data visualizations or maps comparing healthcare costs across counties
+* Analyze how healthcare costs vary by county within North Carolina
+* Support research projects focused on public health or healthcare access
+* Inform policy discussions around regional healthcare funding or disparities
+* Create data visualizations or maps comparing healthcare costs across counties

@@ -1,4 +1,4 @@
-# **County_Health_Data**
+# **Healthcare Costs in NC**
 #### This is a data repository focused on healthcare costs across counties in North Carolina for the years 2014 to 2015. The dataset includes selected indicators related to healthcare expenses and outcomes, originally part of a larger nationwide health database.
 ## Purpose of the Repository
 #### 1. This Repository was created to highlight the differences in healthcare costs from county to county in North Carolina
